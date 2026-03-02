@@ -9,8 +9,6 @@ const MemberDetail: React.FC = () => (
                 <div className="absolute top-0 left-0 w-full h-3 bg-gradient-to-r from-indigo-500 to-emerald-500" />
                 <div className="relative w-72 h-72 mx-auto mb-14">
                     <div className="absolute inset-0 bg-indigo-500 rounded-full animate-ping opacity-5" />
-                    <img src={TEAM_MEMBER.photo} alt={TEAM_MEMBER.name} className="relative w-full h-full rounded-[5rem] border-[12px] border-slate-50 shadow-2xl" />
-                </div>
                 <h2 className="text-6xl font-black text-slate-900 tracking-tighter mb-4 leading-none">{TEAM_MEMBER.name}</h2>
                 <Pill color="indigo">{TEAM_MEMBER.rollNo}</Pill>
                 <div className="mt-12 space-y-8 w-full">
