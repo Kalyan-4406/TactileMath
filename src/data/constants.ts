@@ -21,13 +21,13 @@ export const COURSE_INFO = {
 };
 
 export const PROJECT_META = {
-    github: "https://github.com/kalyankumar/lucid-autism-portal",
-    academicCollab: "Academic",
-    industryCollab: "Industry"
+    github: "https://github.com/Kalyan-4406/TactileMath",
+    academicCollab: "Amrita Vishwa Vidyapeetham",
+    industryCollab: "Autism Research Foundation"
 };
 
 export const TEAM_MEMBER = {
     name: "Kalyan Kumar Reddy C",
     rollNo: "CB.SC.U4CSE23060",
-    photo: "https://api.dicebear.com/7.x/avataaars/svg?seed=Kalyan",
+    photo: "/WhatsApp Image 2026-03-18 at 6.22.06 PM (2).jpeg",
 };
